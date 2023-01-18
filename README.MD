@@ -1,3 +1,8 @@
+<a href="https://github.com/skjerns">
+  <!-- Reference: https://github.com/anuraghazra/github-readme-stats -->
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=skjerns&count_private=true&theme=algolia&show_icons=true&include_all_commits=true" alt="skjerns's github stats" />
+</a>
+
 You can reach me also here:
 
 |   |   |
