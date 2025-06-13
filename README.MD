@@ -14,3 +14,4 @@ You can reach me also here:
 
 [![Hits](https://hits.sh/github.com/skjerns/skjerns.svg?style=flat-square)](https://hits.sh/github.com/skjerns/skjerns/)
 
+my academic projects are hosted at our institute github: https://github.com/orgs/CIMH-Clinical-Psychology/repositories
