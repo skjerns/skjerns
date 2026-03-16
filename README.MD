@@ -8,8 +8,9 @@ You can reach me also here:
 |   |   |
 |---|---|
 | <a rel="me" href="https://orcid.org/0000-0002-9050-9040">ORC-iD</a> | [0000-0002-9050-9040](https://orcid.org/0000-0002-9050-9040) |
+| <a rel="me" href="https://scholar.google.com/citations?user=PENab7AAAAAJ">Google Scholar</a> | [Simon Kern](https://scholar.google.com/citations?user=PENab7AAAAAJ) | 
 | <a rel="me" href="https://www.researchgate.net/profile/Simon-Kern-4">ResearchGate</a> | [Simon Kern](https://www.researchgate.net/profile/Simon-Kern-4) | 
-| <a rel="me" href="https://twitter.com/skjerns">Twitter</a> | [@skjerns](https://twitter.com/skjerns) |
+| <a rel="me" href="https://bsky.app/profile/skjerns.de">BlueSky</a> | [@skjerns.de](https://bsky.app/profile/skjerns.de) |
 | <a rel="me" href="https://skjerns.de">Website</a> | [skjerns.de](https://skjerns.de) |
 
 [![Hits](https://hits.sh/github.com/skjerns/skjerns.svg?style=flat-square)](https://hits.sh/github.com/skjerns/skjerns/)
